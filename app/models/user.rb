@@ -1,5 +1,5 @@
 class User < ApplicationRecord
-	 t.sring :username
+	 t.string :username
 	t.string :eamail
 	  t.text :bio
 end
